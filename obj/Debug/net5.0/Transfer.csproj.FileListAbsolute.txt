@@ -1,0 +1,16 @@
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\Transfer.exe
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\Transfer.deps.json
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\Transfer.runtimeconfig.json
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\Transfer.runtimeconfig.dev.json
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\Transfer.dll
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\ref\Transfer.dll
+C:\Users\user\Workspace\Bank.Transfer\Transfer\bin\Debug\net5.0\Transfer.pdb
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.csproj.AssemblyReference.cache
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.AssemblyInfoInputs.cache
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.AssemblyInfo.cs
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.dll
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\ref\Transfer.dll
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.pdb
+C:\Users\user\Workspace\Bank.Transfer\Transfer\obj\Debug\net5.0\Transfer.genruntimeconfig.cache
